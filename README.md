@@ -5,7 +5,7 @@
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 
-# Repository of the material for the FAIR Software Talk at the HPC Best Practices Webinar series (May 7th 2025)
+# Repository of the Material for the FAIR Software Talk at the HPC Best Practices Webinar Series (May 7th 2025)
 
 ## About
 

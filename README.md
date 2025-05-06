@@ -18,7 +18,7 @@ Description: Research software refers to any software created during the researc
 
 | Type            | Date & Time             | Authors                          | Session / Location                                              | Details |
 | --------------- | -----------------|--------------------------------- |------------------------------------------------------ |------------------- |
-| Talk          |  Wednesday, May 7, 2025, 1 pm ET | Bhavesh Patel (presenter) | NA  |[Webinar page](https://ideas-productivity.org/events/hpcbp-090-fair-software) |
+| Talk          |  Wednesday, May 7, 2025, 1 pm ET| Bhavesh Patel (presenter) | Zoom  |[Webinar page](https://ideas-productivity.org/events/hpcbp-090-fair-software) |
 
 
 ## Course material
